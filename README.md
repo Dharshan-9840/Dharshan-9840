@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Dharshan 👋
+**MCA (Generative AI) Student @ SRM Ramapuram | Aspiring LLM & AI Application Engineer**
 
-<!--
-**Dharshan-9840/Dharshan-9840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production-ready LLM applications, Retrieval-Augmented Generation (RAG) pipelines, and autonomous AI agents using Python and FastAPI.
 
-Here are some ideas to get you started:
+- 🔭 **Currently Building:** Hybrid-Search Document RAG Assistant
+- 🌱 **Currently Learning:** FastAPI, Production RAG, LangGraph Agents, Qdrant, and LLMOps
+- 🎯 **Open To:** 3–6 Month Paid LLM / Generative AI Engineering Internships (Semester 3)
+- 📫 **Connect:** [dharshan9804@gmail.com](mailto:dharshan9804@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, Java, SQL
+- **LLM & Agent Frameworks:** LangChain, LangGraph, LlamaIndex, Pydantic
+- **Backend & Cloud:** FastAPI, Docker, PostgreSQL, Redis, Render, Hugging Face Spaces
+- **Vector Databases:** Qdrant, ChromaDB, pgvector
